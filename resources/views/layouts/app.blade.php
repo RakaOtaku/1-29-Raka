@@ -10,8 +10,7 @@
     <meta name="keywords" content="au theme template">
 
     <!-- Title Page-->
-    <title>Dashboard</title>
-
+    <title> Dashboard </title>
     @include('partials/css')
 
 </head>
